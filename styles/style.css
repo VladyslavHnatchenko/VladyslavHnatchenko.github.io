@@ -1,0 +1,37 @@
+html {
+	font-size: 10px;
+	font-family: 'Audiowide', cursive;
+	background-color: #9FA1A1;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #2FA5EE;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: grey;
+	text-shadow: 5px 5px 10px red;
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 14px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+p {
+	color: black;
+}
